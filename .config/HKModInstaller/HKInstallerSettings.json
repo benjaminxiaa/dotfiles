@@ -1,0 +1,14 @@
+{
+  "ManagedFolder": "/Users/benjaminxia/Library/Application Support/Steam/steamapps/common/Hollow Knight/hollow_knight.app/Contents/Resources/Data/Managed",
+  "AutoRemoveUnusedDeps": "Never",
+  "WarnBeforeRemovingDependents": true,
+  "UseCustomModlinks": false,
+  "CustomModlinksUri": "",
+  "UseGithubMirror": false,
+  "GithubMirrorFormat": "",
+  "PreferredLanguage": "en",
+  "LowStorageMode": false,
+  "ExtraSpaceTaken": "1 MB",
+  "RequiresWorkaroundClient": false,
+  "CacheFolder": "/Users/benjaminxia/.config/HKModInstaller/HKInstallerCache"
+}

@@ -1,0 +1,43 @@
+Lumafly Information: 0 : Launching...
+    DateTime=2024-12-04T05:07:07.6231970Z
+LogHost: Initializing to normal mode (.cctor)
+Loaded app
+Opening Lumafly Version: 3.3.0.0
+Checking if up to date...
+Settings doesn't exist. Creating it at detected path ValidPath { Root = /Users/benjaminxia/Library/Application Support/Steam/steamapps/common/Hollow Knight/hollow_knight.app, Suffix = Contents/Resources/Data/Managed }.
+[Binding]Error in binding to 'Avalonia.Input.KeyBinding'.'Command': 'Null value in expression '{empty}' at ''.'(KeyBinding #25116876)
+[Binding]Error in binding to 'Avalonia.Input.KeyBinding'.'Command': 'Null value in expression '{empty}' at ''.'(KeyBinding #24725298)
+[Binding]Error in binding to 'Avalonia.Input.KeyBinding'.'Command': 'Null value in expression '{empty}' at ''.'(KeyBinding #21201098)
+[Binding]Error in binding to 'Avalonia.Controls.RowDefinition'.'Height': 'Null value in expression '{empty}' at ''.'(RowDefinition #39567352)
+[Binding]Error in binding to 'Avalonia.Controls.RowDefinition'.'Height': 'Null value in expression '{empty}' at ''.'(RowDefinition #20561848)
+netsparkle: Using the following url for downloading the app cast: https://raw.githubusercontent.com/TheMulhima/Lumafly/master/appcast.xml
+Loading settings.
+Fetching links
+Fetched links successfully
+Creating service collection
+Building service provider
+Built service provider
+Displaying model
+Installer initialized
+Initializing InfoViewModel
+Initializing ModListViewModel
+Creating Items
+Items Created
+Items Selected
+ReverseDependencySearch initialized
+ModlinksChanges service created
+Initial API check complete
+Reactive commands created
+Created tag and author list
+Started getting modlinks changes
+Initializing SettingsViewModel
+SettingsViewModel Initialized
+Selected Tab 0
+[Binding]Error in binding to 'Avalonia.Controls.ColumnDefinition'.'Width': 'Null value in expression '{empty}' at '$self.TemplatedParent'.'(ColumnDefinition #26143179)
+Finished getting modlinks changes
+[Binding]Error in binding to 'ColorTextBlock.Avalonia.CCode'.'Foreground': 'Unable to convert object 'Blue' of type 'Avalonia.Media.Color' to type 'Avalonia.Media.IBrush'.'(CCode #53640856)
+[Binding]Error in binding to 'ColorTextBlock.Avalonia.CCode'.'Foreground': 'Unable to convert object 'Blue' of type 'Avalonia.Media.Color' to type 'Avalonia.Media.IBrush'.'(CCode #59585428)
+[Binding]Error in binding to 'ColorTextBlock.Avalonia.CCode'.'Foreground': 'Unable to convert object 'Blue' of type 'Avalonia.Media.Color' to type 'Avalonia.Media.IBrush'.'(CCode #52268091)
+[Binding]Error in binding to 'ColorTextBlock.Avalonia.CCode'.'Foreground': 'Unable to convert object 'Blue' of type 'Avalonia.Media.Color' to type 'Avalonia.Media.IBrush'.'(CCode #38881260)
+[Binding]Error in binding to 'ColorTextBlock.Avalonia.CCode'.'Foreground': 'Unable to convert object 'Blue' of type 'Avalonia.Media.Color' to type 'Avalonia.Media.IBrush'.'(CCode #58411349)
+[Binding]Error in binding to 'ColorTextBlock.Avalonia.CCode'.'Foreground': 'Unable to convert object 'Blue' of type 'Avalonia.Media.Color' to type 'Avalonia.Media.IBrush'.'(CCode #18030400)

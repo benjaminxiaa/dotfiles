@@ -4,3 +4,8 @@ README.org
 .gitignore
 .git
 zshrc.org
+nix
+installer.sh
+udevmon.yaml
+keys
+systems

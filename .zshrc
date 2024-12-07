@@ -80,6 +80,8 @@ zstyle ':fzf-tab:complete:__zoxide_z:*' fzf-preview 'ls --color $realpath'
 alias ls='ls --color -al'
 alias vim='nvim'
 alias c='clear'
+alias darwin-rebuild='darwin-rebuild switch --flake ~/dotfiles/nix-darwin#bexia'
+alias push=~/dotfiles/scripts/git-push.sh
 
 # Shell integrations
 eval "$(zoxide init --cmd cd zsh)"

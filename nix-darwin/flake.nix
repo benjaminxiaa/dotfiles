@@ -46,6 +46,7 @@
           "dockdoor"
           "notion-calendar"
           "protonmail-bridge"
+          "todoist"
         ];
         masApps = {
           "Notability" = 360593530;

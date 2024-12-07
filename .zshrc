@@ -81,7 +81,7 @@ alias ls='ls --color -al'
 alias vim='nvim'
 alias c='clear'
 alias darwin-rebuild='darwin-rebuild switch --flake ~/dotfiles/nix-darwin#bexia'
-alias push=~/dotfiles/scripts/git-push.sh
+alias commit=~/dotfiles/scripts/git-push.sh
 
 # Shell integrations
 eval "$(zoxide init --cmd cd zsh)"

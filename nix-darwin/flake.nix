@@ -29,6 +29,7 @@
           pkgs.firefox-unwrapped
           pkgs.protonmail-bridge
           pkgs.keepassxc
+          pkgs.tmux
         ];
       
       homebrew = {
